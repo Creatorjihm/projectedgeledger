@@ -1,0 +1,17 @@
+.text-primary {
+  color: green;
+}
+
+.btn {
+  display: inline-block;
+  background: green;
+  color: #fff;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 5px;
+  /* font-size: 20px; */
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
